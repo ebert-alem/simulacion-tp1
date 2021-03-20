@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luis\\source\\repos\\Numeros-aleatorios\\Numeros-aleatorios.csproj": {}
+    "C:\\Users\\e-r-t\\Documents\\GitHub\\simulacion-tp1\\Numeros-aleatorios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luis\\source\\repos\\Numeros-aleatorios\\Numeros-aleatorios.csproj": {
+    "C:\\Users\\e-r-t\\Documents\\GitHub\\simulacion-tp1\\Numeros-aleatorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luis\\source\\repos\\Numeros-aleatorios\\Numeros-aleatorios.csproj",
+        "projectUniqueName": "C:\\Users\\e-r-t\\Documents\\GitHub\\simulacion-tp1\\Numeros-aleatorios.csproj",
         "projectName": "Numeros-aleatorios",
-        "projectPath": "C:\\Users\\luis\\source\\repos\\Numeros-aleatorios\\Numeros-aleatorios.csproj",
-        "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luis\\source\\repos\\Numeros-aleatorios\\obj\\",
+        "projectPath": "C:\\Users\\e-r-t\\Documents\\GitHub\\simulacion-tp1\\Numeros-aleatorios.csproj",
+        "packagesPath": "C:\\Users\\e-r-t\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e-r-t\\Documents\\GitHub\\simulacion-tp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\e-r-t\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

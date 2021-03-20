@@ -238,7 +238,7 @@ namespace Numeros_aleatorios
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1364, 71);
+            this.panel1.Size = new System.Drawing.Size(1381, 71);
             this.panel1.TabIndex = 2;
             // 
             // lblTitulo
@@ -308,7 +308,7 @@ namespace Numeros_aleatorios
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1381, 711);
+            this.ClientSize = new System.Drawing.Size(1398, 711);
             this.Controls.Add(this.gbResultados);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox1);
